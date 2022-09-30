@@ -11,3 +11,4 @@ The purpose of this assignment was to challenge us to create a timed quiz that a
 HTML, CSS, JavaScript, Web APIs.
 
 #Link to deployed application
+https://amandajorg.github.io/timed-quiz-challenge4/
